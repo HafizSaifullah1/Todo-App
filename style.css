@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ipn{
+    text-align: center;
+    padding-top: 40px;
+    
+}
+
+.inp,input{
+    width: 50%;
+    height: 30px;
+    
+}
+
+.del{
+    width: 50px;
+    background-color: red;
+}
+
+.edit{
+    margin: 10px;
+    width: 40px;
+    background-color: black;
+    color: white;
+}
